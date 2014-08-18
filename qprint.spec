@@ -5,7 +5,7 @@ Release:	1
 License:	public domain
 Group:		Applications/Mail
 Source0:	http://www.fourmilab.ch/webtools/qprint/%{name}-%{version}.tar.gz
-# Source0-md5:	8bab14aaffe0f473f12ba873ccf751fc
+# Source0-md5:	6dc7931376370d5be9223d0d43bec7d0
 URL:		http://www.fourmilab.ch/webtools/qprint/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
