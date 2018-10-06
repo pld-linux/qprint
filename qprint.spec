@@ -1,11 +1,11 @@
 Summary:	Encode and decode Quoted-Printable files
 Name:		qprint
-Version:	1.0
+Version:	1.1
 Release:	1
 License:	public domain
 Group:		Applications/Mail
 Source0:	http://www.fourmilab.ch/webtools/qprint/%{name}-%{version}.tar.gz
-# Source0-md5:	6dc7931376370d5be9223d0d43bec7d0
+# Source0-md5:	f33be0ac4e09aadea161f378140007ea
 URL:		http://www.fourmilab.ch/webtools/qprint/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
